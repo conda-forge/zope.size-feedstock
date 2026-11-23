@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "6.0"
+  version: "6.1"
 
 package:
   name: zope.size
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zope.size/zope_size-${{ version }}.tar.gz
-  sha256: e5ceb10bc878aed4fa4c205e4865bfb936df916a4d0c5d2cd87e5b369c84048d
+  sha256: 9d23b0ff34b6d3d3d234ee283de99618210c8c15aa470790eed37787d4c9ed7a
 
 build:
   number: 0
